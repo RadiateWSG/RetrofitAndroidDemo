@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit Android Demo</string>
+    <string name="input_github_name">请输入GitHub用户名</string>
+    <string name="submit">提交</string>
+</resources>
